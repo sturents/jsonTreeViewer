@@ -1,0 +1,15 @@
+{
+  "name": "json-tree-viewer",
+  "author": {
+    "name": "Vera Lobacheva",
+    "url": "https://github.com/summerstyle"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "LICENSE"
+    }
+  ],
+  "description": "json formatter/viewer/pretty-printer (with jsonTree javascript-library)",
+  "homepage": "http://summerstyle.github.io/jsonTreeViewer/"
+}
